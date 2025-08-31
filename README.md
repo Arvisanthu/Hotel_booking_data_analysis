@@ -1,13 +1,4 @@
-1.. Understand the Case-study & read the data
-
-
-2.. Data cleaning/ ETL pipline
-Removing invalid rows, Duplicate rows, fix errors, check missing values/data types, deal with outliers..
-
-3.. Performing descriptive analysis !
-
-
-4.. Perform Spatial Analysis
+*Visualisation:*
 
 <img width="1105" height="360" alt="newplot" src="https://github.com/user-attachments/assets/4e8d9d18-49c4-469f-8133-bb8b4d342411" />
 
